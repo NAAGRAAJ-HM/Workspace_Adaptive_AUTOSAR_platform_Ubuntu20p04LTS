@@ -1,6 +1,3 @@
-[submodule "projects/Project_Ubuntu20.04LTS_CMake3.22.1_PEAQc150_VirtualECU_intelCOREi7"]
-	path = projects/Project_Ubuntu20.04LTS_CMake3.22.1_PEAQc150_VirtualECU_intelCOREi7
-	url = git@github.com:NAAGRAAJ-HM/Project_Ubuntu20.04LTS_CMake3.22.1_PEAQc150_VirtualECU_intelCOREi7.git
 [submodule "modules/common"]
 	path = modules/common
 	url = git@github.com:NAAGRAAJ-HM/common.git
@@ -187,3 +184,6 @@
 [submodule "modules/SwcServiceOs"]
 	path = modules/SwcServiceOs
 	url = git@github.com:NAAGRAAJ-HM/SwcServiceOs.git
+[submodule "projects/Project_Ubuntu20p04LTS_CMake3p22p1_PEAQc150_VirtualECU_intelCOREi7"]
+	path = projects/Project_Ubuntu20p04LTS_CMake3p22p1_PEAQc150_VirtualECU_intelCOREi7
+	url = git@github.com:NAAGRAAJ-HM/Project_Ubuntu20p04LTS_CMake3p22p1_PEAQc150_VirtualECU_intelCOREi7.git
