@@ -187,3 +187,6 @@
 [submodule "projects/Project_Ubuntu20p04LTS_CMake3p22p1_PEAQc150_VirtualECU_intelCOREi7"]
 	path = projects/Project_Ubuntu20p04LTS_CMake3p22p1_PEAQc150_VirtualECU_intelCOREi7
 	url = git@github.com:NAAGRAAJ-HM/Project_Ubuntu20p04LTS_CMake3p22p1_PEAQc150_VirtualECU_intelCOREi7.git
+[submodule "modules/Const"]
+	path = modules/Const
+	url = git@github.com:NAAGRAAJ-HM/Const.git
