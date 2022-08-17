@@ -193,3 +193,6 @@
 [submodule "projects/ProjectUbuntu_CMake3p22p1_VirtualECUintelCOREi7"]
 	path = projects/ProjectUbuntu_CMake3p22p1_VirtualECUintelCOREi7
 	url = git@github.com:NAAGRAAJ-HM/ProjectUbuntu_CMake3p22p1_VirtualECUintelCOREi7.git
+[submodule "projects/ProjectUbuntu_uVisionV5p37_BldcFocSensorlessTLE9879QXA40"]
+	path = projects/ProjectUbuntu_uVisionV5p37_BldcFocSensorlessTLE9879QXA40
+	url = git@github.com:NAAGRAAJ-HM/ProjectUbuntu_uVisionV5p37_BldcFocSensorlessTLE9879QXA40.git
