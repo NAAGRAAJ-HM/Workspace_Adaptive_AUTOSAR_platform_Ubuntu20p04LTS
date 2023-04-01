@@ -286,3 +286,6 @@
 [submodule "modules/SwcServiceWdgM"]
 	path = modules/SwcServiceWdgM
 	url = git@github.com:NagarajaHuliyapuradaMata/SwcServiceWdgM.git
+[submodule "projects/ProjectUbuntu_gpp_VirtualEcu"]
+	path = projects/ProjectUbuntu_gpp_VirtualEcu
+	url = git@github.com:NagarajaHuliyapuradaMata/ProjectUbuntu_gpp_VirtualEcu.git
