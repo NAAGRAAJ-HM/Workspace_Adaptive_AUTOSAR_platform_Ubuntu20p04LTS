@@ -196,3 +196,93 @@
 [submodule "projects/ProjectUbuntu_uVisionV5p37_BldcFocSensorlessTLE9879QXA40"]
 	path = projects/ProjectUbuntu_uVisionV5p37_BldcFocSensorlessTLE9879QXA40
 	url = git@github.com:NAAGRAAJ-HM/ProjectUbuntu_uVisionV5p37_BldcFocSensorlessTLE9879QXA40.git
+[submodule "modules/CddBdrv"]
+	path = modules/CddBdrv
+	url = git@github.com:NagarajaHuliyapuradaMata/CddBdrv.git
+[submodule "modules/ReSimCmd"]
+	path = modules/ReSimCmd
+	url = git@github.com:NagarajaHuliyapuradaMata/ReSimCmd.git
+[submodule "modules/SwcApplFoc"]
+	path = modules/SwcApplFoc
+	url = git@github.com:NagarajaHuliyapuradaMata/SwcApplFoc.git
+[submodule "modules/SwcServiceBswM"]
+	path = modules/SwcServiceBswM
+	url = git@github.com:NagarajaHuliyapuradaMata/SwcServiceBswM.git
+[submodule "modules/SwcServiceCanNm"]
+	path = modules/SwcServiceCanNm
+	url = git@github.com:NagarajaHuliyapuradaMata/SwcServiceCanNm.git
+[submodule "modules/SwcServiceCanSm"]
+	path = modules/SwcServiceCanSm
+	url = git@github.com:NagarajaHuliyapuradaMata/SwcServiceCanSm.git
+[submodule "modules/SwcServiceCanTp"]
+	path = modules/SwcServiceCanTp
+	url = git@github.com:NagarajaHuliyapuradaMata/SwcServiceCanTp.git
+[submodule "modules/SwcServiceCom"]
+	path = modules/SwcServiceCom
+	url = git@github.com:NagarajaHuliyapuradaMata/SwcServiceCom.git
+[submodule "modules/SwcServiceComM"]
+	path = modules/SwcServiceComM
+	url = git@github.com:NagarajaHuliyapuradaMata/SwcServiceComM.git
+[submodule "modules/SwcServiceCsm"]
+	path = modules/SwcServiceCsm
+	url = git@github.com:NagarajaHuliyapuradaMata/SwcServiceCsm.git
+[submodule "modules/SwcServiceDcm"]
+	path = modules/SwcServiceDcm
+	url = git@github.com:NagarajaHuliyapuradaMata/SwcServiceDcm.git
+[submodule "modules/SwcServiceDem"]
+	path = modules/SwcServiceDem
+	url = git@github.com:NagarajaHuliyapuradaMata/SwcServiceDem.git
+[submodule "modules/SwcServiceDet"]
+	path = modules/SwcServiceDet
+	url = git@github.com:NagarajaHuliyapuradaMata/SwcServiceDet.git
+[submodule "modules/SwcServiceDlt"]
+	path = modules/SwcServiceDlt
+	url = git@github.com:NagarajaHuliyapuradaMata/SwcServiceDlt.git
+[submodule "modules/SwcServiceEcuM"]
+	path = modules/SwcServiceEcuM
+	url = git@github.com:NagarajaHuliyapuradaMata/SwcServiceEcuM.git
+[submodule "modules/SwcServiceFiM"]
+	path = modules/SwcServiceFiM
+	url = git@github.com:NagarajaHuliyapuradaMata/SwcServiceFiM.git
+[submodule "modules/SwcServiceFrNm"]
+	path = modules/SwcServiceFrNm
+	url = git@github.com:NagarajaHuliyapuradaMata/SwcServiceFrNm.git
+[submodule "modules/SwcServiceIoHwAb"]
+	path = modules/SwcServiceIoHwAb
+	url = git@github.com:NagarajaHuliyapuradaMata/SwcServiceIoHwAb.git
+[submodule "modules/SwcServiceIpduM"]
+	path = modules/SwcServiceIpduM
+	url = git@github.com:NagarajaHuliyapuradaMata/SwcServiceIpduM.git
+[submodule "modules/SwcServiceNm"]
+	path = modules/SwcServiceNm
+	url = git@github.com:NagarajaHuliyapuradaMata/SwcServiceNm.git
+[submodule "modules/SwcServiceNvM"]
+	path = modules/SwcServiceNvM
+	url = git@github.com:NagarajaHuliyapuradaMata/SwcServiceNvM.git
+[submodule "modules/SwcServiceOs"]
+	path = modules/SwcServiceOs
+	url = git@github.com:NagarajaHuliyapuradaMata/SwcServiceOs.git
+[submodule "modules/SwcServicePduR"]
+	path = modules/SwcServicePduR
+	url = git@github.com:NagarajaHuliyapuradaMata/SwcServicePduR.git
+[submodule "modules/SwcServiceSchM"]
+	path = modules/SwcServiceSchM
+	url = git@github.com:NagarajaHuliyapuradaMata/SwcServiceSchM.git
+[submodule "modules/SwcServiceSecOC"]
+	path = modules/SwcServiceSecOC
+	url = git@github.com:NagarajaHuliyapuradaMata/SwcServiceSecOC.git
+[submodule "modules/SwcServiceSokFm"]
+	path = modules/SwcServiceSokFm
+	url = git@github.com:NagarajaHuliyapuradaMata/SwcServiceSokFm.git
+[submodule "modules/SwcServiceStartUp"]
+	path = modules/SwcServiceStartUp
+	url = git@github.com:NagarajaHuliyapuradaMata/SwcServiceStartUp.git
+[submodule "modules/SwcServiceStbM"]
+	path = modules/SwcServiceStbM
+	url = git@github.com:NagarajaHuliyapuradaMata/SwcServiceStbM.git
+[submodule "modules/SwcServiceVkms"]
+	path = modules/SwcServiceVkms
+	url = git@github.com:NagarajaHuliyapuradaMata/SwcServiceVkms.git
+[submodule "modules/SwcServiceWdgM"]
+	path = modules/SwcServiceWdgM
+	url = git@github.com:NagarajaHuliyapuradaMata/SwcServiceWdgM.git
